@@ -1,0 +1,14 @@
+C:\Ccafein\DataEngineer\NamBa\CloudComputing\Topic4v2\DemoJava\JavaContainer\bin\Debug\netcoreapp3.1\JavaContainer.exe
+C:\Ccafein\DataEngineer\NamBa\CloudComputing\Topic4v2\DemoJava\JavaContainer\bin\Debug\netcoreapp3.1\JavaContainer.deps.json
+C:\Ccafein\DataEngineer\NamBa\CloudComputing\Topic4v2\DemoJava\JavaContainer\bin\Debug\netcoreapp3.1\JavaContainer.runtimeconfig.json
+C:\Ccafein\DataEngineer\NamBa\CloudComputing\Topic4v2\DemoJava\JavaContainer\bin\Debug\netcoreapp3.1\JavaContainer.runtimeconfig.dev.json
+C:\Ccafein\DataEngineer\NamBa\CloudComputing\Topic4v2\DemoJava\JavaContainer\bin\Debug\netcoreapp3.1\JavaContainer.dll
+C:\Ccafein\DataEngineer\NamBa\CloudComputing\Topic4v2\DemoJava\JavaContainer\bin\Debug\netcoreapp3.1\JavaContainer.pdb
+C:\Ccafein\DataEngineer\NamBa\CloudComputing\Topic4v2\DemoJava\JavaContainer\obj\Debug\netcoreapp3.1\JavaContainer.JavaContainer.resources
+C:\Ccafein\DataEngineer\NamBa\CloudComputing\Topic4v2\DemoJava\JavaContainer\obj\Debug\netcoreapp3.1\JavaContainer.csproj.GenerateResource.cache
+C:\Ccafein\DataEngineer\NamBa\CloudComputing\Topic4v2\DemoJava\JavaContainer\obj\Debug\netcoreapp3.1\JavaContainer.AssemblyInfoInputs.cache
+C:\Ccafein\DataEngineer\NamBa\CloudComputing\Topic4v2\DemoJava\JavaContainer\obj\Debug\netcoreapp3.1\JavaContainer.AssemblyInfo.cs
+C:\Ccafein\DataEngineer\NamBa\CloudComputing\Topic4v2\DemoJava\JavaContainer\obj\Debug\netcoreapp3.1\JavaContainer.csproj.CoreCompileInputs.cache
+C:\Ccafein\DataEngineer\NamBa\CloudComputing\Topic4v2\DemoJava\JavaContainer\obj\Debug\netcoreapp3.1\JavaContainer.dll
+C:\Ccafein\DataEngineer\NamBa\CloudComputing\Topic4v2\DemoJava\JavaContainer\obj\Debug\netcoreapp3.1\JavaContainer.pdb
+C:\Ccafein\DataEngineer\NamBa\CloudComputing\Topic4v2\DemoJava\JavaContainer\obj\Debug\netcoreapp3.1\JavaContainer.genruntimeconfig.cache
